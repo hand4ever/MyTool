@@ -1,0 +1,22 @@
+[
+    
+    {
+        "caption": "我的工具",
+        "children":
+        [
+            {
+                "caption": "比较trunk和branch",
+                "command": "diff"
+            },
+            {
+                "caption": "查看当前文件编码",
+                "command": "t2"
+            },
+            {
+                "caption": "Hello World",
+                "command": "hello"
+            }
+        ]
+    },
+   
+]
